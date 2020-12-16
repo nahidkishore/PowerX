@@ -98,7 +98,7 @@ const Footer = () => {
           </Row>
           <div className="copyright-text">
             <p className="text-center">
-              <small>All rights reserved. 2020</small>
+            © All rights reserved by nahid {new Date().getFullYear()}
             </p>
           </div>
         </Container>

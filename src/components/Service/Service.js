@@ -8,7 +8,7 @@ import NavBar from '../Header/NavBar/NavBar';
 const Service = () => {
 
     const clickButtonForAddClass = () => {
-        fetch('https://afternoon-castle-90518.herokuapp.com/addClass', {
+        fetch('https://limitless-anchorage-82823.herokuapp.com/addClass', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

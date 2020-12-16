@@ -11,3 +11,13 @@
     margin-top: 130px;
     margin-left: 450px;
 }
+
+.banner-btn{
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #FCD842;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 0;
+  }

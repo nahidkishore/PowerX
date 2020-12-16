@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Classes.css';
 
 import { Container } from 'react-bootstrap';
@@ -6,21 +6,21 @@ import NavBar from '../Header/NavBar/NavBar';
 import Footer from '../Shared/Footer/Footer';
 import ClassItems from '../ClassItems/ClassItems';
 import { useState } from 'react';
-import fakeData from '../../fakeData/fakeData';
+//import fakeData from '../../fakeData/fakeData';
 
 const Classes = () => {
 
-     const [service, setService] = useState(fakeData);
+     //const [service, setService] = useState(fakeData);
     // console.log(service);
 
-    /* const [service, setService] = useState([]);
+     const [service, setService] = useState([]);
 
     useEffect(() => {
-        fetch('https://afternoon-castle-90518.herokuapp.com/getClass')
+        fetch('https://limitless-anchorage-82823.herokuapp.com/getClass')
         .then(res => res.json())
         .then(data => setService(data))
     }, [])
- */
+ 
     return (
         <>
         <div className="class-container">

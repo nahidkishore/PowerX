@@ -8,6 +8,7 @@ import MembershipForm from "./components/MembershipForm/MembershipForm";
 import Checkout from "./components/Checkout/Checkout";
 import Service from "./components/Service/Service";
 import Pricing from "./components/Pricing/Pricing";
+import NotMatch from "./components/NotMatch/NotMatch";
 
 function App() {
   return (
@@ -21,8 +22,8 @@ function App() {
             <Classes />
           </Route>
           <Route exact path="/pricing">
-         <Pricing></Pricing>
-       </Route>
+            <Pricing></Pricing>
+          </Route>
           <Route path="/advanceGym/:title">
             <AdvanceGym />
           </Route>
@@ -33,11 +34,14 @@ function App() {
             <MembershipForm></MembershipForm>
           </Route>
           <Route path="/service">
-             <Service />
+            <Service />
             <Footer></Footer>
           </Route>
           <Route exact path="/">
             <Home></Home>
+          </Route>
+          <Route path="*">
+            <NotMatch></NotMatch>
           </Route>
         </Switch>
       </Router>

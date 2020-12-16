@@ -9,6 +9,7 @@ import Checkout from "./components/Checkout/Checkout";
 import Service from "./components/Service/Service";
 import Pricing from "./components/Pricing/Pricing";
 import NotMatch from "./components/NotMatch/NotMatch";
+import Blog from "./components/Blog/Blog";
 
 function App() {
   return (
@@ -37,6 +38,11 @@ function App() {
             <Service />
             <Footer></Footer>
           </Route>
+          <Route path="/blog">
+            <Blog></Blog>
+
+          </Route>
+
           <Route exact path="/">
             <Home></Home>
           </Route>

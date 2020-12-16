@@ -1,71 +1,24 @@
-# Getting Started with Create React App
+## Power X GYM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Website](https://power-x-gymm.netlify.app/)
 
-## Available Scripts
+This is an single page website for gym where a user will get to see a video played in the banner. There is a classes page where the user can see available classes which is shown from the database. In the pricing page user can purchases package which can suitable. Admin can add new training class.
 
-In the project directory, you can run:
 
-### `npm start`
+## Technology
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* Node.js
+* MongoDB
+* Bootstrap
+* Material UI
+* React-Bootstrap
+* Netlify
+* Heroku
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Power-GYM
+## Screenshots
+![s2](https://user-images.githubusercontent.com/39863835/102399183-7c0cdb00-400a-11eb-9d0a-6d6bf09d43ef.png)
+![s3](https://user-images.githubusercontent.com/39863835/102399210-85964300-400a-11eb-9281-1d99a4ab3be2.jpg)
+![s4](https://user-images.githubusercontent.com/39863835/102399159-74e5cd00-400a-11eb-89a7-caf2e67b9384.png)
+![s5](https://user-images.githubusercontent.com/39863835/102399179-79aa8100-400a-11eb-85de-ac376ece4e90.jpg)
+![s1](https://user-images.githubusercontent.com/39863835/102399180-7adbae00-400a-11eb-80a2-fe02c3e27fd7.jpg)

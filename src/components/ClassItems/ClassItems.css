@@ -1,0 +1,33 @@
+.class-item-card{
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.class-item-card img{
+    height: 320px;
+    width: 360px;
+    max-width: 100%;
+    object-fit: cover;
+    
+    
+}
+.class-item-card h4{
+    text-align: center;
+    margin-top: -20px;
+    width: 70%;
+    margin-left: 30px;
+    padding: 5px;
+    
+    /* SASS a nite hobe */
+    background-color: #FCD842;
+    color: black;
+    font-family: tahoma;
+    
+    display: block;
+    position: absolute;
+    z-index: 1;
+    
+
+}
+

@@ -1,0 +1,16 @@
+.about-section .container .row p{
+    line-height: 1.75;
+   
+}
+section{
+    padding: 40px 10px;
+    margin: 50px 0;
+}
+.light-text{
+    color: rgb(235, 235, 235);
+    font-weight: 800;
+    font-size: 40px;
+}
+.heading{
+    font-weight: 700;
+}

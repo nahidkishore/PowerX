@@ -1,0 +1,18 @@
+.training-title{
+    background-color: #FCD842;
+    padding: 15px 25px;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: -106px;
+    margin-bottom: 20px;
+    position: absolute;
+    display: block;
+   
+    text-align: center;
+}
+.training-img{
+    max-width: 100%;
+    width: 540px;
+    height: 360px;
+    object-fit: cover;
+}

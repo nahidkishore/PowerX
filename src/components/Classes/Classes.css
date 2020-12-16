@@ -1,0 +1,21 @@
+.class-heading{
+    text-align: center;
+    background-size: 100%;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-image: url(../images/image/banner-header.jpg);
+    display: cover;
+}
+.header-tag{
+    border-right: 1px solid white;
+    width: 50%;
+    margin-left: 25%;
+    height: 100px;
+}
+.header-tag h1{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 50px;
+    
+}

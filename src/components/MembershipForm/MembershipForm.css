@@ -1,0 +1,45 @@
+.row {
+   
+    display: flex;
+    -ms-flex-wrap: wrap; 
+    flex-wrap: wrap;
+    margin: 0 10px;
+
+  }
+  
+  
+  
+  .col-50 {
+    -ms-flex: 40%; 
+    flex: 40%;
+   
+  }
+
+  .col-75 {
+    -ms-flex: 40%; /* IE10 */
+    flex: 40%;
+  }
+  
+  .col-25,
+  .col-50,
+  .col-75 {
+    padding: 0 16px;
+  }
+
+  .containe {
+    background-color: #f2f2f2;
+    padding: 15px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+  }
+  input[type=text],select {
+    width: 95%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }  
